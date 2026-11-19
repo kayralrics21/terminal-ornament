@@ -1,4 +1,4 @@
-# KAYRA — GitHub-style uptime for Fedora KDE (v2)
+# KAYRA — GitHub-style uptime for Fedora KDE (FOR FEDORA KDE LINUX)
 
 Large green/dark-green contribution squares spell **KAYRA** with **SYSTEM UPTIME**
 next to it. Made for Konsole and other Linux terminal emulators.
